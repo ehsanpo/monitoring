@@ -4,19 +4,19 @@
     "url": "https://ehsan-pourhadi.com/",
     "icon": "https://favicons.githubusercontent.com/ehsan-pourhadi.com",
     "slug": "ehsan-p",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
     "time": 161,
-    "timeDay": 181,
-    "timeWeek": 178,
-    "timeMonth": 174,
+    "timeDay": 162,
+    "timeWeek": 174,
+    "timeMonth": 173,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 39
     }
   },
   {

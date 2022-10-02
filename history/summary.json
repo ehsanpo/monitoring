@@ -2,7 +2,7 @@
   {
     "name": "Ehsan.P",
     "url": "https://ehsan-pourhadi.com/",
-    "icon": "https://favicons.githubusercontent.com/ehsan-pourhadi.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ehsan-pourhadi.com.ico",
     "slug": "ehsan-p",
     "status": "up",
     "uptime": "99.95%",
@@ -12,8 +12,8 @@
     "uptimeYear": "99.95%",
     "time": 158,
     "timeDay": 163,
-    "timeWeek": 161,
-    "timeMonth": 158,
+    "timeWeek": 157,
+    "timeMonth": 157,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2022-09-15": 72
@@ -22,7 +22,7 @@
   {
     "name": "BB2",
     "url": "bredband2.com",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bb-2",
     "status": "up",
     "uptime": "100.00%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 293,
-    "timeWeek": 331,
-    "timeMonth": 312,
-    "timeYear": 323,
+    "time": 324,
+    "timeDay": 439,
+    "timeWeek": 329,
+    "timeMonth": 321,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   }
 ]

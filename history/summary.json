@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ehsan-pourhadi.com.ico",
     "slug": "ehsan-p",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 160,
-    "timeDay": 203,
-    "timeWeek": 177,
+    "uptimeYear": "99.96%",
+    "time": 159,
+    "timeDay": 121,
+    "timeWeek": 166,
     "timeMonth": 161,
-    "timeYear": 160,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2022-09-15": 72
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 344,
-    "timeWeek": 370,
-    "timeMonth": 334,
-    "timeYear": 325,
+    "time": 324,
+    "timeDay": 283,
+    "timeWeek": 356,
+    "timeMonth": 333,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   }
 ]

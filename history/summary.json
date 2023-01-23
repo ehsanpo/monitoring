@@ -24,17 +24,19 @@
     "url": "bredband2.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bb-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 249,
-    "timeWeek": 250,
-    "timeMonth": 256,
-    "timeYear": 304,
-    "dailyMinutesDown": {}
+    "time": 303,
+    "timeDay": 161,
+    "timeWeek": 228,
+    "timeMonth": 251,
+    "timeYear": 303,
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   }
 ]

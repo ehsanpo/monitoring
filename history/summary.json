@@ -6,17 +6,17 @@
     "slug": "ehsan-p",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 144,
-    "timeDay": 109,
-    "timeWeek": 125,
-    "timeMonth": 132,
+    "timeDay": 106,
+    "timeWeek": 131,
+    "timeMonth": 133,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-07-26": 27,
+      "2023-07-26": 19,
       "2022-09-15": 72
     }
   },
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 266,
-    "timeDay": 179,
-    "timeWeek": 188,
-    "timeMonth": 203,
-    "timeYear": 262,
+    "timeDay": 213,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2023-01-23": 64
     }

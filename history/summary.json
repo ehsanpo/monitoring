@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 429,
-    "timeWeek": 157,
-    "timeMonth": 203,
+    "time": 147,
+    "timeDay": 216,
+    "timeWeek": 177,
+    "timeMonth": 207,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2023-07-26": 19
@@ -26,17 +26,16 @@
     "slug": "bb-2",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 246,
+    "timeDay": 266,
     "timeWeek": 209,
-    "timeMonth": 202,
+    "timeMonth": 204,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-09-25": 11,
       "2023-01-23": 64
     }
   }

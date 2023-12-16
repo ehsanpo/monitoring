@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 123,
-    "timeWeek": 115,
+    "timeDay": 84,
+    "timeWeek": 99,
     "timeMonth": 129,
     "timeYear": 138,
     "dailyMinutesDown": {
@@ -26,17 +26,16 @@
     "slug": "bb-2",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 789,
-    "timeWeek": 425,
-    "timeMonth": 309,
+    "timeDay": 781,
+    "timeWeek": 423,
+    "timeMonth": 310,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-12-15": 9,
       "2023-01-23": 64
     }
   }

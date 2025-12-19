@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 248,
-    "timeWeek": 196,
-    "timeMonth": 197,
+    "timeDay": 112,
+    "timeWeek": 184,
+    "timeMonth": 194,
     "timeYear": 175,
-    "dailyMinutesDown": {
-      "2024-12-19": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BB2",
@@ -28,12 +26,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 305,
-    "timeDay": 240,
-    "timeWeek": 227,
-    "timeMonth": 266,
+    "timeDay": 341,
+    "timeWeek": 237,
+    "timeMonth": 269,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2025-11-18": 89
